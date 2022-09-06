@@ -1,0 +1,24 @@
+/* headermarca.php */
+      
+      
+        #intro {
+        height: 200px;
+        /* Margin to fix overlapping fixed navbar */
+        margin-top: 0px;
+      }
+      @media (max-width: 991px) {
+              #intro {
+              
+              height: 210px;
+              margin-top: 0px;
+      	}
+      }
+      
+      
+     .buttons{
+  padding-right:80px;
+}
+
+
+      
+      
